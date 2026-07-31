@@ -1,0 +1,7 @@
+=== Portfolio Summary ===
+Stock   Qty     Price     Value       
+--------------------------------------
+AAPL    10      $180      $1800.00    
+TSLA    5       $250      $1250.00    
+--------------------------------------
+Total Investment Value: $3,050.00
